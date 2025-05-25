@@ -23,4 +23,14 @@ I’ve worked with financial, insurance, and academic institutions, but now I’
 ### 🌐 International Experience
 - Collaborations with institutions in Latin America and Europe
 
+  ### 🏅 Achievements & Skills
+
+![Power BI](https://img.shields.io/badge/Power%20BI-FAE500?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![R (Learning)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-302683?style=for-the-badge&logo=data&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
 
