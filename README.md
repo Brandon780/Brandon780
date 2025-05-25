@@ -20,4 +20,7 @@ I'm a data scientist currently pursuing a Master’s in Data Analytics. I'm putt
 ### ⚡ Fun fact:
 I’ve worked with financial, insurance, and academic institutions, but now I’m channeling my skills into solving real-world environmental challenges — one dataset at a time 🌍
 
+### 🌐 International Experience
+- Collaborations with institutions in Latin America and Europe
+
 
