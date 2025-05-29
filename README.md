@@ -7,7 +7,7 @@ I'm Brandon
 I'm a data scientist currently pursuing a Master’s in Data Analytics. I'm putting into practice my skills through real-world projects, always open to new challenges, and eager to contribute with data-driven solutions. I’m passionate about turning data into valuable insights and constantly looking for ways to grow personally and professionally.
 
 ### 🌊 What I'm working on:
-- 🧠  Continuous learning: Power BI, Python and statistical sciences, statistical models and advanced data modeling
+- 🧠  Continuous learning: Power BI, Python and statistical sciences, statistical models and advanced marcine learning
 - 🧪 Exploring ways to turn raw data into actionable insights for environmental and operational efficiency
 
 ### 🤝 Open to collaborate on:
